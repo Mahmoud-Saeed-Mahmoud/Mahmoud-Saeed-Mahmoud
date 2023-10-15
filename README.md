@@ -1,31 +1,22 @@
-- 👋 Hi, I’m @Mahmoud Saeed
+# 💫 About Me:
+I'm a flutter enthusiast who finds joy in crafting interactive and visually appealing mobile applications. My journey in the tech realm led me to create FilmFrenzy, a vibrant Flutter application that acts as your personal cinephile companion. Dive into the world of movies with FilmFrenzy, an app designed to ignite your cinematic senses!<br><br>🎥 FilmFrenzy: Your Movie Wonderland<br>FilmFrenzy is not just another movie app; it's a cinematic adventure waiting to unfold. Using the power of Flutter and the vast TMDB database, I've curated a haven for movie buffs and casual viewers alike. Here's what FilmFrenzy brings to your fingertips:<br><br>Explore Variety: From trending blockbusters to timeless classics, FilmFrenzy offers a diverse array of movies across genres. Whether you're into action-packed adventures or heartwarming dramas, there's something for everyone.<br><br>Detailed Insights: Dive deep into the cinematic universe with comprehensive movie details. Uncover trailers, ratings, titles, and reviews at a glance. FilmFrenzy ensures you're always in the know about the latest and greatest in the world of movies.<br><br>Discover Similar Gems: Loved a particular movie? FilmFrenzy recommends similar titles, helping you discover hidden gems you might have missed otherwise.<br><br>🌟 Why FilmFrenzy?<br>FilmFrenzy isn't just a project; it's my creative expression in the realm of technology. As someone deeply passionate about new technologies, I've poured my enthusiasm into crafting an app that merges entertainment with innovation. Join me on this cinematic journey, and let's explore the magic of movies together.<br><br>🚀 Let's Connect!<br>Are you a fellow Flutter enthusiast, a movie buff, or someone intrigued by cutting-edge technologies? Let's connect and share our passion for creativity and innovation. Feel free to explore my repositories, and don't hesitate to reach out. Together, let's code, create, and embrace the future of technology!<br><br>
 
-![Mahmoud's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud-flutter-dev&show_icons=true&theme=radical)
 
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=TODO_app&show_icons=true&theme=radical&show_owner=true)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-flutter) 
 
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=social_app&show_icons=true&theme=radical&show_owner=true)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mahmoud-flutter-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-flutter-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-flutter-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=BMI&show_icons=true&theme=radical&show_owner=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mahmoud-flutter-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=meal_app&show_icons=true&theme=radical&show_owner=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=Notes&show_icons=true&theme=radical&show_owner=true)
-
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=weather_app&show_icons=true&theme=radical&show_owner=true)
-
-![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mahmoud-flutter-dev&repo=news_app&show_icons=true&theme=radical&show_owner=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahmoud-flutter-dev&show_icons=true&theme=radical)
-
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-Mahmoud-flutter-dev/Mahmoud-flutter-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mahmoud-flutter-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
