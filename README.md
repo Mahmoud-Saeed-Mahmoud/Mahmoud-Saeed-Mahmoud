@@ -17,6 +17,3 @@ I'm a flutter enthusiast who finds joy in crafting interactive and visually appe
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahmoud-flutter-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
