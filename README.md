@@ -13,7 +13,6 @@ further develop my skills and contribute to innovative projects.<br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saeed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahmoud-Saeed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
