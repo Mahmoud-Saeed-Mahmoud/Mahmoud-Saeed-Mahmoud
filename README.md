@@ -1,8 +1,7 @@
 # 💫 About Me:
 Highly motivated and detail-oriented Flutter developer with a strong foundation in computer science
 and mobile app development. Proficient in Flutter, Dart, and other programming languages, with
-experience working on personal projects. Seeking a challenging position as a Flutter developer to
-further develop my skills and contribute to innovative projects.<br><br>
+experience working on personal projects.<br><br>
 
 
 ## 🌐 Socials:
