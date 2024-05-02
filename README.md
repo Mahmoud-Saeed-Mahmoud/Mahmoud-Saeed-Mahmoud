@@ -1,7 +1,7 @@
 # 💫 About Me:
-Highly motivated and detail-oriented Flutter developer with a strong foundation in computer science
-and mobile app development. Proficient in Flutter, Dart, and other programming languages, with
-experience working on personal projects.<br><br>
+As a freelance Flutter developer, I design, develop, and test mobile applications using Flutter and Dart, collaborating with other developers and stakeholders on various projects. I have a bachelor's degree in computer science from Ain Shams University, and I have completed multiple online courses and certifications to enhance my skills and knowledge in Flutter, Dart, Kotlin, C#, and UI prototyping.
+
+Some of the apps I have worked on include a fitness app, a social media app, and a news app, which have received positive feedback and reviews from users and clients. I use Cloud Firestore, GitHub, and Figma to manage data, code, and design, and I follow best practices and standards to ensure quality and performance. I am passionate about creating innovative and impactful solutions using Flutter and Dart, and I am always eager to learn new technologies and tools. I am looking for a challenging and rewarding position as a Flutter developer, where I can leverage my skills and experience, and grow as a professional and as a person.<br><br>
 
 
 ## 🌐 Socials:
