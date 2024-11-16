@@ -50,7 +50,7 @@ What I Do:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&show_icons=true&count_private=true&rank_icon=percentile)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&show_icons=true&count_private=true&rank_icon=default)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&&hide_longest_streak=true&&hide_current_streak=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&&hide_progress=true)
 
