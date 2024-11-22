@@ -12,7 +12,7 @@ I'm a passionate software developer specializing in Flutter and full-stack devel
 
 - 📱 **Mobile Development**: Expert in Flutter, creating cross-platform applications with native performance and beautiful UI
 - 🚀 **Full Stack Development**: Building end-to-end applications with various tech stacks
-- 💻 **MERN Stack**: Crafting modern web applications with MongoDB, Express.js, React.js, and Node.js
+- 💻 **MERN Stack**: Crafting modern web applications with MongoDB, and Node.js
 - 🎨 **UI/UX Design**: Creating intuitive and visually appealing interfaces using Figma
 - ⚙️ **Backend Development**: Building scalable systems with Node.js, NestJS, and Go
 
@@ -31,9 +31,7 @@ I'm a passionate software developer specializing in Flutter and full-stack devel
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
