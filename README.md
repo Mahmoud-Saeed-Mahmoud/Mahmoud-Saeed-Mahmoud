@@ -30,6 +30,7 @@ What I Do:
 ![TypeScreipt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
@@ -38,6 +39,7 @@ What I Do:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -52,7 +54,7 @@ What I Do:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&show_icons=true&count_private=true&rank_icon=default)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&&hide_longest_streak=true&&hide_current_streak=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=13&&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=14&&hide_progress=true)
 
 
 ## 🏆 GitHub Trophies
