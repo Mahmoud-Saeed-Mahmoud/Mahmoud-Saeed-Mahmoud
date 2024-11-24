@@ -56,9 +56,22 @@ I'm a passionate software developer specializing in Flutter and full-stack devel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&&hide_longest_streak=true&&hide_current_streak=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&&hide_progress=true)
 
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Saeed-Mahmoud">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Saeed-Mahmoud"/>
+        </a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud-Saeed-Mahmoud&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud-Saeed-Mahmoud"/>
+        </a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Saeed-Mahmoud">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Saeed-Mahmoud"/>
+        </a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahmoud-Saeed-Mahmoud&theme=light&no-frame=false&no-bg=false&margin-w=4)
+
+<a href="https://github-trophies.vercel.app/?username=Mahmoud-Saeed-Mahmoud">
+  <img src="https://github-trophies.vercel.app/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&margin-w=4&margin-h=4">
+</a>
+
 
 ## 📫 Get in Touch
 
