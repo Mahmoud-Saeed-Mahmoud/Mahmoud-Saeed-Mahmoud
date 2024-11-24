@@ -54,7 +54,7 @@ I'm a passionate software developer specializing in Flutter and full-stack devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&show_icons=true&count_private=true&rank_icon=default)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&&hide_longest_streak=true&&hide_current_streak=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=14&&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Saeed-Mahmoud&theme=transpaernt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&&hide_progress=true)
 
 
 ## 🏆 GitHub Trophies
