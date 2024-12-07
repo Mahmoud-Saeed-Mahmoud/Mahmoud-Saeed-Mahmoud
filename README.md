@@ -4,6 +4,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahmoudsaeed395.395)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mahmoud-saeed)
 
+[![autocomplete](https://codeium.com/badges/user/anciently-conscious-squid-84856/autocomplete)](https://codeium.com/profile/anciently-conscious-squid-84856)
+
 ## 👨‍💻 About Me
 
 I'm a passionate software developer specializing in Flutter and full-stack development. With a deep love for crafting beautiful mobile applications and robust backend systems, I bring ideas to life through clean, efficient code.
