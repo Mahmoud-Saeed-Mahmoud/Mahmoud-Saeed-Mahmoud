@@ -16,10 +16,10 @@ I specialize in building cross-platform mobile applications using Flutter and de
 ### What I Do
 
 - 📱 **Mobile Development**: Expert in Flutter, creating cross-platform applications with native performance and beautiful UI
-- 🚀 **Full Stack Development**: Building end-to-end applications with various tech stacks
-- 💻 **MERN Stack**: Crafting modern web applications with MongoDB, and Node.js
 - 🎨 **UI/UX Design**: Creating intuitive and visually appealing interfaces using Figma
 - ⚙️ **Backend Development**: Building scalable systems with Node.js, NestJS, and Go
+- 🚀 **Full Stack Development**: Building end-to-end applications with various tech stacks
+- 💻 **MERN Stack**: Crafting modern web applications with MongoDB, and Node.js
 
 ## 🛠️ Tech Stack
 
