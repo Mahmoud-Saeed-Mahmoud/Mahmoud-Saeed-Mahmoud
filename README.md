@@ -83,6 +83,14 @@ I specialize in building cross-platform mobile applications using Flutter and de
 - Medium: [@mahmoudsaeed395.395](https://medium.com/@mahmoudsaeed395.395)
 - LeetCode: [mahmoud-saeed](https://leetcode.com/u/mahmoud-saeed)
 
+## 🚀 Hire Me on Upwork
+
+Are you looking for a dedicated and skilled professional for your next project? I am available for freelance work and would love to help you achieve your goals!
+
+🔗 [Check out my Upwork profile and hire me!](https://www.upwork.com/freelancers/~01b978b963225bade8?mp_source=share)
+
+Feel free to reach out to discuss your project requirements. Let’s build something great together!
+
 ---
 
 ⭐️ From [Mahmoud-Saeed-Mahmoud](https://github.com/Mahmoud-Saeed-Mahmoud)
