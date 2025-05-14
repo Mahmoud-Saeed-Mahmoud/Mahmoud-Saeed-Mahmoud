@@ -22,7 +22,7 @@ I specialize in building cross-platform mobile applications using Flutter and de
 - 💻 **MERN Stack**: Crafting modern web applications with MongoDB, and Node.js
 - 
 ## Portfolio
-Check out my portfolio: [protfolio.mahmoud-saeed.space](https://protfolio.mahmoud-saeed.space)
+Check out my portfolio: [portfolio.mahmoud-saeed.space](https://portfolio.mahmoud-saeed.space)
 
 ## 🛠️ Tech Stack
 
