@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hey there! I'm Mahmoud, a passionate software developer specializing in Flutter and full-stack development. With a deep love for crafting beautiful mobile applications and robust backend systems, I bring ideas to life through clean, efficient code.
+👋 I'm Mahmoud, a passionate software developer specializing in Flutter and full-stack development. With a deep love for crafting beautiful mobile applications and robust backend systems, I bring ideas to life through clean, efficient code.
 
 ### What I Do
 
