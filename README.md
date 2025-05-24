@@ -7,7 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahmoudsaeed395.395)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mahmoud-saeed)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b978b963225bade8?mp_source=share)
-[![autocomplete](https://codeium.com/badges/user/anciently-conscious-squid-84856/autocomplete)](https://codeium.com/profile/anciently-conscious-squid-84856)
 
 ## 👨‍💻 About Me
 
