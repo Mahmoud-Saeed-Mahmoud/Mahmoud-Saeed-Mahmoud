@@ -11,8 +11,11 @@
 ## 👨‍💻 About Me
 
 🌟 Full-Stack & Cross-Platform Developer | Flutter, Node.js, NestJS
+
 🚀 Building beautiful, high-performance apps and scalable backend systems
+
 💻 Tech Stack: Dart, Kotlin, Java, Python, C++, TypeScript, MongoDB, MySQL, Postgres, Docker, Firebase
+
 🎯 Passionate about creating innovative solutions and sharing knowledge
 - 
 ## Portfolio
