@@ -10,15 +10,10 @@
 
 ## 👨‍💻 About Me
 
-👋 I'm Mahmoud, a passionate software developer specializing in Flutter and full-stack development. With a deep love for crafting beautiful mobile applications and robust backend systems, I bring ideas to life through clean, efficient code.
-
-### What I Do
-
-- 📱 **Mobile Development**: Expert in Flutter, creating cross-platform applications with native performance and beautiful UI
-- 🎨 **UI/UX Design**: Creating intuitive and visually appealing interfaces using Figma
-- ⚙️ **Backend Development**: Building scalable systems with Node.js, NestJS, and Go
-- 🚀 **Full Stack Development**: Building end-to-end applications with various tech stacks
-- 💻 **MERN Stack**: Crafting modern web applications with MongoDB, and Node.js
+🌟 Full-Stack & Cross-Platform Developer | Flutter, Node.js, NestJS
+🚀 Building beautiful, high-performance apps and scalable backend systems
+💻 Tech Stack: Dart, Kotlin, Java, Python, C++, TypeScript, MongoDB, MySQL, Postgres, Docker, Firebase
+🎯 Passionate about creating innovative solutions and sharing knowledge
 - 
 ## Portfolio
 Check out my portfolio: [portfolio.mahmoud-saeed.space](https://portfolio.mahmoud-saeed.space)
