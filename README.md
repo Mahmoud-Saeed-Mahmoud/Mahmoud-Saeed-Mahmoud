@@ -81,7 +81,7 @@ Check out my portfolio: [portfolio.mahmoud-saeed.space](https://portfolio.mahmou
 ## 📫 Get in Touch
 
 - LinkedIn: [Mahmoud Saeed](https://linkedin.com/in/mahmoud--saeed)
-- Medium: [@mahmoudsaeed395.395](https://medium.com/@mahmoudsaeed395.395)
+- Medium: [@mahmoud-saeed](https://medium.com/@mahmoud-saeed)
 - LeetCode: [mahmoud-saeed](https://leetcode.com/u/mahmoud-saeed)
 
 ## 🚀 Hire Me on Upwork
