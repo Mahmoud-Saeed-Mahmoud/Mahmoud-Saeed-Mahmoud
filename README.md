@@ -83,11 +83,11 @@ Check out my portfolio: [portfolio.mahmoud-saeed.space](https://portfolio.mahmou
 - Medium: [@mahmoud-saeed](https://medium.com/@mahmoud-saeed)
 - LeetCode: [mahmoud-saeed](https://leetcode.com/u/mahmoud-saeed)
 
-## 🚀 Hire Me on Upwork
+## 🚀 Hire Me
 
 Are you looking for a dedicated and skilled professional for your next project? I am available for freelance work and would love to help you achieve your goals!
 
-Email Me at work@mahmoud-saeed.space
+Email Me at contact@mahmoud-saeed.space
 
 Feel free to reach out to discuss your project requirements. Let’s build something great together!
 
