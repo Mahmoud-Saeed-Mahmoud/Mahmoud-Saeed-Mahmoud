@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm Mahmoud Saeed
 
-## 📊 GitHub Activity Graph
-[![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Saeed-Mahmoud&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud--saeed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahmoud-saeed)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mahmoud-saeed)
